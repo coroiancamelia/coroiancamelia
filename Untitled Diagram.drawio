@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-04T08:14:40.748Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="VGDrfpZJQhaqYy0UDaFW" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-04T08:34:23.718Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="EvtPl3loC_t8CbcJCgzi" version="20.8.16" type="github">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
     <mxGraphModel dx="1050" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -40,16 +40,10 @@
         <mxCell id="Fru1zeG-IIHjsc8SuM4v-35" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="565" y="55" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Fru1zeG-IIHjsc8SuM4v-36" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="305" y="75" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Fru1zeG-IIHjsc8SuM4v-37" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="210" y="165" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Fru1zeG-IIHjsc8SuM4v-43" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;rounded=0;labelBackgroundColor=#FFFFFF;exitX=0.3;exitY=1.16;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Fru1zeG-IIHjsc8SuM4v-35">
+        <mxCell id="Fru1zeG-IIHjsc8SuM4v-43" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;rounded=0;labelBackgroundColor=#FFFFFF;exitX=0.3;exitY=1.16;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.3;entryY=1.16;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Fru1zeG-IIHjsc8SuM4v-35">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="650" y="80" as="sourcePoint" />
-            <mxPoint x="710" y="150" as="targetPoint" />
+            <mxPoint x="710" y="150" as="sourcePoint" />
+            <mxPoint x="650" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Fru1zeG-IIHjsc8SuM4v-52" value="+ Pornire motor : string &quot;brr&quot;&lt;br&gt;+Oprire motor: string &quot;par poc pac&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" vertex="1" parent="1">
@@ -61,17 +55,26 @@
         <mxCell id="Fru1zeG-IIHjsc8SuM4v-54" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=#FFFFFF;" edge="1" parent="1" source="Fru1zeG-IIHjsc8SuM4v-53" target="Fru1zeG-IIHjsc8SuM4v-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Fru1zeG-IIHjsc8SuM4v-55" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;rounded=0;labelBackgroundColor=#FFFFFF;exitX=1.02;exitY=0.707;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Fru1zeG-IIHjsc8SuM4v-36">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="320" y="110" as="sourcePoint" />
-            <mxPoint x="220" y="210" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Fru1zeG-IIHjsc8SuM4v-56" value="+ Return StrongestCar" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="350" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Fru1zeG-IIHjsc8SuM4v-57" value="&amp;nbsp;+masina porneste: void&lt;br&gt;&amp;nbsp;+masina se opreste: void" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="342.5" y="370" width="205" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Fru1zeG-IIHjsc8SuM4v-62" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="155" y="165" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fru1zeG-IIHjsc8SuM4v-63" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;rounded=0;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="180" y="210" as="sourcePoint" />
+            <mxPoint x="305" y="103.125" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fru1zeG-IIHjsc8SuM4v-65" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="100" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
